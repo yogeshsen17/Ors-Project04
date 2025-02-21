@@ -41,7 +41,7 @@
 		<center>
 
 			<div align="center">
-				<h1>Purchase List 1</h1>
+				<h1>Purchase List</h1>
 				<h3>
 					<font color="red"><%=ServletUtility.getErrorMessage(request)%></font>
 					<font color="green"><%=ServletUtility.getSuccessMessage(request)%></font>
